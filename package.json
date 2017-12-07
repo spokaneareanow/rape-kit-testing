@@ -1,0 +1,8 @@
+{
+  "name": "now-rape-kit-testing",
+  "version": "0.0.1",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  },
+  "scripts": {"start": "node parse_kit_data.js"}
+}
